@@ -1,7 +1,7 @@
 # box-co
 a website for posting boxes
  
-![photo](/)
+![photo](pic/mobile-iPhone_13_Pro%20(1).png)
 
  ---
 
@@ -9,4 +9,4 @@ a website for posting boxes
 in  all the website  i used bootstrap components
 
 ---
-
+![photo](pic/box-co-desktop.png)
